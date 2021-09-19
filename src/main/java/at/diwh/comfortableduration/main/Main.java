@@ -16,7 +16,7 @@ import at.diwh.comfortableduration.util.ComfortableDuration;
 import java.util.TimeZone;
 
 /**
- * @author 246J
+ * @author diwh
  */
 public class Main {
 

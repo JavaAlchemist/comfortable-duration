@@ -25,7 +25,7 @@ import java.util.TimeZone;
  * aus der Instanz die entsprechenden Werte raus zu lesen.
  * <br/> <b>Beispiel</b> für die Nützlichkeit: 
  * <br/>Eine "unleserliche" <i>Duration</i> im ISO8601-Format: PT1990H40M32.025S <br/>-> Tage : 82, Stunden : 22, Minuten : 40, Sekunden : 32, Nanosekunden : 25000000
- * @author 246J
+ * @author diwh
  *
  */
 public class ComfortableDuration {
